@@ -25,10 +25,16 @@ A time when you had to influence a leader or team.
 Times when you got surprised by something or had overlooked something.
 Times when you removed barriers or came up with a creative solution.
 A time when you failed but learned.
-A time when you had to defuse​ an escalating situation.
+A time when you had to defuse an escalating situation.
 
 Q. Tell me about a time when you had to give someone difficult feedback. How did you handle it?
 	One of my team member in a project whose pace was lagging behind the others.
 	We were approaching the production release, so each member is expected to work independently or with limited guidance on the assigned task. The goal was to fix the performance issues and bugs within limited time.
 	We got together to address the issue. I explained that although he was falling behind, he could still improve by making a few adjustments to his strategy. Also I tried assign him simple tasks so that he also contribute to production release with limited help from others. 
 	His productivity increased and he felt more confident in his work which led successful release and now he also started contributing with new ideas to improve prduct.. 
+
+Challenges: 
+1. Spec 26-30 fps, but need to support 60, 120 fps camera
+2. HW limitation, need dual decoder but have only one.
+3. Performance optimization - Introduced Cache 200%(50% before timeline and 50% after)
+			      Display/Playback video at player resolution instead resizing of video resolution.
