@@ -1,18 +1,41 @@
-What was the last project you led, and what was its outcome?
-Give me an example of a time that you felt you went above and beyond at work.
-Describe a time when your work was criticized, how you responded, and what happened as a result.
-Have you ever been on a team where someone was not doing their part? How did you handle it?
-Tell me about a time when you had to give someone difficult feedback. How did you handle it?
-How do you handle working with people who annoy you?
-What was the most difficult period in your life, and how did you deal with it?
-Give me an example of a time you did something wrong. How did you handle it?
-Tell me about a time when you had to deal with conflict on the job.
-What assignment was too difficult for you, and how did you resolve the issue?
-Give me an example of a difficult decision you had to make. How did you come to that decision?
-Give an example of an idea you implemented.
-Describe a mentor who has impacted you in a positive way.
-Was there a person in your career who really made a difference? In what way?
-Tell me about your proudest achievement.
+STAR
+Situation: Describe a specific situation. You need to give enough information that the interviewer will be able to understand the circumstances.
+Task: 	   What were you asked or expected to do and why? What was driving you (and/or your team) to complete this project or solve this problem? 
+	   What were your responsibilities in that situation?
+Action:    Describe the actions taken. You should prioritize what you did, what your contribution was, and how those things were impactful. 
+	   Focus on “I," not “we”.
+Result:	   Describe the outcome. DO NOT undercut your role in the situation, this is not the time to be modest. When talking about the result, make sure you go over 
+           what happened, how the event ended, what was accomplished, and what you learned. Be positive. Even if the outcome was unsatisfactory, it is important 
+	   that something positive came from it. Remember, even when things are negative (or not what you had hoped) good things can still come from them. 
+	   Oftentimes, individuals have to be prompted in this section of their answer; stand out by including this part on your own.
+
+Q. Tell me about a time when you had to give someone difficult feedback. How did you handle it?
+	One of my team member in a project whose pace was lagging behind the others.
+	We were approaching the production release, so each member is expected to work independently or with limited guidance on the assigned task. The goal was to fix the performance issues and bugs within limited time.
+	We got together to address the issue. I explained that although he was falling behind, he could still improve by making a few adjustments to his strategy. Also I tried assign him simple tasks so that he also contribute to production release with limited help from others. 
+	His productivity increased and he felt more confident in his work which led successful release and now he also started contributing with new ideas to improve prduct.. 
+
+Constructive Feeback received:
+1. S: I wanted to become a core technical leader, hence was looking for core technical aspects to work and become expert in technology.
+conflict with manager, co-worker, other team and junior and why you yhink it is a conflict, 
+
+
+
+1. What was the last project you led, and what was its outcome?
+2. Give me an example of a time that you felt you went above and beyond at work.
+3. Describe a time when your work was criticized, how you responded, and what happened as a result.
+4. Have you ever been on a team where someone was not doing their part? How did you handle it?
+5. Tell me about a time when you had to give someone difficult feedback. How did you handle it?
+6. How do you handle working with people who annoy you?
+7. What was the most difficult period in your life, and how did you deal with it?
+8. Give me an example of a time you did something wrong. How did you handle it?
+9. Tell me about a time when you had to deal with conflict on the job.
+10. What assignment was too difficult for you, and how did you resolve the issue?
+11. Give me an example of a difficult decision you had to make. How did you come to that decision?
+12. Give an example of an idea you implemented.
+13. Describe a mentor who has impacted you in a positive way.
+14. Was there a person in your career who really made a difference? In what way?
+15. Tell me about your proudest achievement.
 
 
 
@@ -26,15 +49,16 @@ Times when you got surprised by something or had overlooked something.
 Times when you removed barriers or came up with a creative solution.
 A time when you failed but learned.
 A time when you had to defuse an escalating situation.
+Negative feedback from manager and how did you react
 
-Q. Tell me about a time when you had to give someone difficult feedback. How did you handle it?
-	One of my team member in a project whose pace was lagging behind the others.
-	We were approaching the production release, so each member is expected to work independently or with limited guidance on the assigned task. The goal was to fix the performance issues and bugs within limited time.
-	We got together to address the issue. I explained that although he was falling behind, he could still improve by making a few adjustments to his strategy. Also I tried assign him simple tasks so that he also contribute to production release with limited help from others. 
-	His productivity increased and he felt more confident in his work which led successful release and now he also started contributing with new ideas to improve prduct.. 
 
 Challenges: 
 1. Spec 26-30 fps, but need to support 60, 120 fps camera
 2. HW limitation, need dual decoder but have only one.
 3. Performance optimization - Introduced Cache 200%(50% before timeline and 50% after)
 			      Display/Playback video at player resolution instead resizing of video resolution.
+			      
+
+Questions Asked to me:
+Conflict with junior - 
+Challenges
