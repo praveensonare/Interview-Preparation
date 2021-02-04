@@ -60,6 +60,6 @@
 
 If you are looking for a bolder conversational point, give this a try:
 
-**--27. Is there anything about my background or resume that makes you question whether or not I am a good fit for this role?--**
+**27. Is there anything about my background or resume that makes you question whether or not I am a good fit for this role?**
 
 This question displays that you’re very interested in the job and committed to understanding your prospects as a candidate. Plus, it will allow you an opportunity to respond to any potential concerns.
