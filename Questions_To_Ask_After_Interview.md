@@ -1,3 +1,13 @@
+
+**In the Q&A part of interview, generally last 5 minutes, asking QUESTIONS to your interviewer shows that you are keen about position. First of all your should be humble and polite in this part of interview. Utilize the time to know about the organisation, its culture, challenges that employees face, work environment, values etc. It will help you to evaluate the organisation. Never ask a question that makes your interviewer uncomfortable.**
+
+**Do remember that your questions your questions also provide some data points and contribute to decision making**
+
+**Don't ask questions when interviewer is running out of time, or another interviewer is waiting for follow up interview. You can politely say I will ask my queries to interview coordinator later**
+
+
+**Below are some of the questions to be asked in interview**
+
 **1. What sort of tangible changes has this organization made in regards to promoting gender diversity?**
 
 **2. What are the most exciting projects you’ve worked on here?**
