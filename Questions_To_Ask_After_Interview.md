@@ -68,11 +68,11 @@ If you are looking for a bolder conversational point, give this a try:
 
 **30. How is success defined for this role?**
 
-**31. Did anything about working at Facebook surprise you when you first started?**
+**31. Did anything about working at XXX surprise you when you first started?**
 
 **32. Are there opportunities for growth and advancement in this position?**
 
-**33. What is your favorite part about working at Facebook?**
+**33. What is your favorite part about working at XXX?**
 
 
 This question displays that you’re very interested in the job and committed to understanding your prospects as a candidate. Plus, it will allow you an opportunity to respond to any potential concerns.
