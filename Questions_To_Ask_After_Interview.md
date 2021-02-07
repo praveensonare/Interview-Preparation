@@ -64,4 +64,15 @@ If you are looking for a bolder conversational point, give this a try:
 
 **28. How does the company reward if an employee do really good? (not in terms of money)**
 
+**29. What does a typical day in this job look like?**
+
+**30. How is success defined for this role?**
+
+**31. Did anything about working at Facebook surprise you when you first started?**
+
+**32. Are there opportunities for growth and advancement in this position?**
+
+**33. What is your favorite part about working at Facebook?**
+
+
 This question displays that you’re very interested in the job and committed to understanding your prospects as a candidate. Plus, it will allow you an opportunity to respond to any potential concerns.
