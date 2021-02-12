@@ -1,11 +1,11 @@
 Motivations 
 Talk about how you can learn from other people, that includes people in your team, other team and the wider company. 
 Are you building or working on something impactful that had value for its users? Are you motivated by working in a fast-paced environment to deliver amazing results?
-Ans: It is my dream company. I admire FB for their culture, diversity etc. but importantly I like their technical strength for of solving real life problems and 
-    introducing new technology to the world where millions of people are using it. I'd like to learn from such people and want to be one of them. 
-    In the past I have worked on some of the project which has resemblance with FB products, hence it motivates me further. 
-    //invented patents which solves real world problem.
-    //Working on solving complex problem and innovating solutions for changing the user  for I always like to work on challenging assignement
+- I want to work for Facebook primarily due to the impact it continue to have on the world as an organization, and also the culture you have in place here. 
+Also my working style resemples to facebooks 5 core values be bold, focus on impact, move fast, be open and build social values.
+We spend a long time at work, and on that basis, I want to work somewhere I feel I am making a significant impact in my role, 
+somewhere I can see the results of my work, and also the opportunity to work alongside some of the most talented teams and individuals 
+so that I can continue to grow and develop.
 
 Conflict Resolution – 
 You must have very good examples here of how you have effectively resolved difficult situations or disagreements. 
@@ -24,6 +24,22 @@ You should be able to show how you can gauge the feelings of your team members a
 and that you can promote a culture which encourages people to voice their opinions and thoughts, which in turn helps everyone to learn and work better together. 
 You could talk about how you’re open to adopt ideas that may disagree with your ideas. 
 Think about how you have these relationships with somebody you have reported to, a peer and also a team.
+
+Conflict with Manager:
+Camera Framework Development: Basic camera module exists in legacy code. But in CF project requirement was to handle advance camera use. 
+Hence new camera module was introduced to read video data from usb/inbuild camera using v4l2 driver. When the project was almost complete 
+manager asked to remove new camera module and to use the legacy module for testing effort and cost cutting. 
+Since it was not possible to fulfil the advance requirement with legacy, I proposed a method to have compile time flag for the models which will use legacy, for 
+then new camera module is like a wrapper, for other models based on the configuration set by user appropriate code is triggered.
+
+Conflict with Other team:
+I was leading In DAR project when I was required to ship my code to 16 samsung platforms which has different set of hardwares. 
+For effective DAR I need to create 2 MM pipeline which needs additional hardware (decoders). 
+For SoC team it was not possible to support for all the platform bacause of HW limitation and changing the vendor agreement. 
+After discussion I came to understand the situation and decided to use the opensource ffmpeg decoder for decoding the data and using it in 2nd MM pipeline.
+
+conflict with junior:
+
 
 Leading
 There is an expectation that you can talk about projects that you have lead. Talk about how you measure success and impact of a project (metrics/KPIs/timelines). 
@@ -157,16 +173,30 @@ Why Facebook?
 
 
 1. Introduce yourself.
-“I am very hard working, totally committed to excellence and also someone who wants to continually improve and develop my skillset to ensure I maintain competence in my role. Facebook is changing all of the time, and I feel the skills, qualities and values I possess are a good match for the company. I have studied Facebook’s mission and the 5 core values, and I feel I have a lot to offer in regard to technical expertise and my commitment to a shared vision or goal. If you hire me within this role here at Facebook, I will be able to start contributing positively towards the team’s goals quickly, whilst also bringing a positive, can-do attitude to the organization and those I am working alongside.”
+I am very hard working, totally committed to excellence and also someone who wants to continually improve and develop my skillset to ensure I maintain competence in my role. 
+Facebook is changing all of the time, and I feel the skills, qualities and values I possess are a good match for the company. 
+I have studied Facebook’s mission and the 5 core values, and I feel I have a lot to offer in regard to technical expertise and my commitment to a shared vision or goal. 
+If you hire me within this role here at Facebook, I will be able to start contributing positively towards the team’s goals quickly, 
+whilst also bringing a positive, can-do attitude to the organization and those I am working alongside.”
 
 2. Why do you want to work for Facebook?
 “I want to work for Facebook primarily due to the impact you continue to have on the world as an organization, and also the culture you have in place here. Mark Zuckerburg, the CEO, is also one of the reasons why I want to work for Facebook. This is due to his strong community values and the talent he possesses in regard to constantly changing and evolving the organization. We spend a long time at work, and on that basis, I want to work somewhere I feel I am making a significant impact in my role, somewhere I can see the results of my work, and also the opportunity to work alongside some of the most talented teams and individuals so I can continue to grow and develop.”
 
 Q3. Describe a previous work situation when you demonstrated one of Facebook's core values?
-"Facebook's five core values are Be Bold, Focus on Impact, Move Fast, Be Open and Build Social Value. In my previous job, I was particularly good at getting things done really quickly, and to a high standard. I believe this demonstrates my ability to meet the value of Move Fast. During one particular project I was working on, we lost two members of staff due to illness, but we were still expected to finish the project on time. To meet our objective, I started to increase the speed of my work significantly, and I also ensured I dedicated additional time outside of normal working hours to make up for the two people we had lost within the team. The increase in working speed, and the extra hours I dedicated to the project, meant we were still able to get the project completed on time and to the necessary standards and specification." 
+Facebook's five core values are Be Bold, Focus on Impact, Move Fast, Be Open and Build Social Value. 
+In my previous job, I was particularly good at getting things done really quickly, and to a high standard. 
+I believe this demonstrates my ability to meet the value of Move Fast. 
+During one particular project I was working on, we lost two members of staff due to illness, but we were still expected to finish the project on time. 
+To meet our objective, I started to increase the speed of my work significantly, and I also ensured I dedicated additional time outside of normal working hours 
+to make up for the two people we had lost within the team. The increase in working speed, and the extra hours I dedicated to the project, 
+meant we were still able to get the project completed on time and to the necessary standards and specification.
 
 Q4. Tell me about a situation when you failed? 
-"In my early days of working, I remember I was so keen to impress my boss that I failed to read a job brief properly. I was working on developing a new ecommerce website for one of the company's important clients, and due to my hastiness, I failed to spot one of the core requirements, which was to include an opt-in form at the foot of some of the website's core pages. I soon as I spotted the mistake, I informed my supervisor, apologized for the mistake I had made, and I worked hard to put things right. I learnt a lot from that mistake, and my attention to detail skills have never let me down since." 
+In my early days of working, I remember I was so keen to impress my boss that I failed to read a job brief properly. 
+I was working on developing a new ecommerce website for one of the company's important clients, and due to my hastiness, 
+I failed to spot one of the core requirements, which was to include an opt-in form at the foot of some of the website's core pages. 
+I soon as I spotted the mistake, I informed my supervisor, apologized for the mistake I had made, and I worked hard to put things right. 
+I learnt a lot from that mistake, and my attention to detail skills have never let me down since." 
 
 Q5. Tell me about your best collaboration experience? 
 "I can think of quite a few examples where I have collaborated with others to achieve success. However, one particular experience springs to mind. I was working as part of a six-person team for my previous employer and we were tasked with designing a new website for an important client. During the collaboration, we all got our heads together at the start of the project and shared different ideas for how we could really make the website serve its intended purpose, and also help the client beat the competition within its industry. Once we had come up with a definitive plan of action, and a website design that everyone was in agreement with, we allocated tasks based on individual team technical strengths before setting to work. Throughout the project, we trusted each other to do our jobs properly, we supported each other at all times, communicated regularly and also altered our plans when things needed changing. The reason why the collaboration we so successful was simply because we all had a clear vision of what we wanted to achieve and a plan for getting there." 
