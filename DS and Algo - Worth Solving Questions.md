@@ -3,6 +3,7 @@
 3. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 4. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 5. [Maximal Rectangle with 0's and 1's](https://leetcode.com/problems/maximal-rectangle/)
+6. [Largest Distance between nodes of a Tree]
 
 
 
