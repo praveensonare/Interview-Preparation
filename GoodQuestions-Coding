@@ -46,3 +46,44 @@ node 0 is the root and the whole tree looks like this:
  One of the longest path is 1 -> 0 -> 3 -> 4 and its length is 3, thus the answer is 3.
  
  
+You are given a read only array of n integers from 1 to n.
+Each integer appears exactly once except A which appears twice and B which is missing.
+Return A and B.
+
+Note: Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
+Note that in your output A should precede B.
+
+Example:
+Input:[3 1 2 5 3] 
+Output:[3, 4] 
+A = 3, B = 4
+
+vector<int> Solution::repeatedNumber(const vector<int> &A) {
+    int Axor = 0;
+    int sum = 0;
+    int Txor = 0, i = 1;
+    int len = A.size();
+    
+    for (int i = 0; i < len; ++i)
+    {
+        Txor = Txor ^ (i+1);
+        Axor = Axor ^ A[i];
+        sum += A[i];
+    }
+    
+    int actualSum = (len * (len + 1)) / 2;
+    int diff = sum - actualSum;
+    int repeat;
+    
+    for (int i = 1; i <= len; ++i)
+    {
+        repeat = diff + i;
+        if (repeat < 1 || repeat > len) continue;
+        
+        if ((Axor ^ i ^ repeat) == Txor) return { repeat, i};
+    }
+    
+    return {0,0};
+}
+
+// I'm done. can you check ?
