@@ -123,3 +123,10 @@ Explanation 2:
 	press switch 1 : [1 1 0 1]
 	press switch 2 : [1 1 1 0]
 	press switch 3 : [1 1 1 1]
+int Solution::bulbs(vector<int> &A) {
+    int xr = 0, cnt = 0, i, j; 
+    for(i = 0; i < A.size(); ++i){
+        if((A[i] ^ xr) == 0) xr ^= 1, cnt++;
+    }
+    return cnt;
+}
