@@ -1,0 +1,17 @@
+
+client driven booking (cdb) - trade booking for swap update on SAC DB
+validation
+enrichment from configs 
+lifecycle event generation every month
+monitor speed and capacity
+
+Kafka, emass, java, elk, git, cicd tools, 
+SLANG to Java
+microservice based, old is monothinc
+microservice - bus
+sequenca - low latency** -lot of MS attached to bus
+
+
+equity swap
+java 8
+gs university
